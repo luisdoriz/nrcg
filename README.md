@@ -40,7 +40,7 @@ $ nrcg -n componentName -c
 Create a Component with Redux
 ```bash
 $ cd to/a/directory/
-$ nrcg -n componentName -c
+$ nrcg -n componentName -r
 ```
 
 
