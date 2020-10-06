@@ -13,10 +13,36 @@ $ npm i luisdoriz/nrcg.git -g
 
 Activate in current directory:
 
+Create a Class component
 ```bash
 $ cd to/a/directory/
 $ nrcg -n componentName
 ```
+
+Create a Arrow function component
+```bash
+$ cd to/a/directory/
+$ nrcg -n componentName -v
+```
+
+Create a Component with Sass
+```bash
+$ cd to/a/directory/
+$ nrcg -n componentName -s
+```
+
+Create a Component with Css
+```bash
+$ cd to/a/directory/
+$ nrcg -n componentName -c
+```
+
+Create a Component with Redux
+```bash
+$ cd to/a/directory/
+$ nrcg -n componentName -c
+```
+
 
 Get help:
 

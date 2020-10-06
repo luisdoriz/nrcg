@@ -2,6 +2,7 @@ const getContainerCode = require("./getContainerCode")
 const getIndexCode = require("./getIndexCode")
 const getReduxCode = require("./getReduxCode")
 const getViewCode = require("./getViewCode")
+const getCssCode = require("./getCssCode")
 
 
 module.exports = {
@@ -9,4 +10,5 @@ module.exports = {
   getContainerCode,
   getViewCode,
   getIndexCode,
+  getCssCode,
 };
